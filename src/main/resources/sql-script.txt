@@ -1,0 +1,6 @@
+INSERT INTO employees (name, surname, department, salary) VALUES
+('John', 'Doe', 'IT', 60000),
+('Jane', 'Smith', 'HR', 55000),
+('Robert', 'Brown', 'Finance', 70000),
+('Emily', 'Davis', 'Marketing', 50000),
+('Michael', 'Wilson', 'IT', 65000);
